@@ -48,10 +48,10 @@ A secondary issue was the **use of welding wires instead of proper connectors**,
 - **Eng. Mostafa Samy** – Process Engineer  
 - **Mr. Mohamed Salem** – QA Supervisor  
 - **Mr. Mahmoud Eldeeb** – QA Supervisor  
-- **Ms. Alaa Ameen** – Student  
-- **Ms. Amira Elmenshawy** – Student  
-- **Mr. Omar Morady** – Student  
-- **Mr. Ahmed Samy** – Student  
+- **Ms. Alaa Amin**   
+- **Ms. Amira Elmenshawy**   
+- **Mr. Omar Morady**   
+- **Mr. Ahmed Samy**   
 
 ## Project Timeline  
 The project was completed in approximately **two months**, including **problem identification, design, simulation, and implementation**.
